@@ -25,8 +25,7 @@ public class Main {
         List<Animal> zoo = new ArrayList<>();
 
         // --- LINE 1 ---
-Tiger tiger = new Tiger("Vitaly");
-zoo.add(tiger);
+
 
         // --- LINE 2 ---
 
@@ -47,7 +46,8 @@ zoo.add(tiger);
 
 
         // --- LINE 8 ---
-
+        Monkey monito =new Monkey("El Rey");
+        zoo.add(monito);
 
         // --- LINE 9 ---
 
