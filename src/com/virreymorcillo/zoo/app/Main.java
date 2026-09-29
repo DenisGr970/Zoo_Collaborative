@@ -43,7 +43,7 @@ public class Main {
 
 
         // --- LINE 7 ---
-        Cheetah cheetah = new Cheetah("cheetah");
+        Animal cheetah = new Cheetah("cheetah");
         zoo.add(cheetah);
         // --- LINE 8 ---
 
