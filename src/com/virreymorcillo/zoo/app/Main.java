@@ -31,8 +31,8 @@ public class Main {
 
 
         // --- LINE 3 ---
-
-
+        Animal cat = new Cat("Gatete miau");
+        zoo.add(cat);
         // --- LINE 4 ---
 
 
