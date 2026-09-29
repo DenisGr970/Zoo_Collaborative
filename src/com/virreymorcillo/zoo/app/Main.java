@@ -25,11 +25,11 @@ public class Main {
         List<Animal> zoo = new ArrayList<>();
 
         // --- LINE 1 ---
+
+
+        // --- LINE 2 ---
         Animal hipopotamo = new Hippo("Jose");
         zoo.add(hipopotamo);
-        // --- LINE 2 ---
-
-
         // --- LINE 3 ---
 
 
