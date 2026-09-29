@@ -49,7 +49,8 @@ zoo.add(wolf);
 
 
         // --- LINE 9 ---
-
+        Animal crocodile = new Crocodrile ("Crocodile");
+        zoo.add(crocodile);
 
         // --- LINE 10 ---
 
