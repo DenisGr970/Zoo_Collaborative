@@ -25,8 +25,8 @@ public class Main {
         List<Animal> zoo = new ArrayList<>();
 
         // --- LINE 1 ---
-
-
+        Animal hipopotamo = new Hippo("Jose");
+        zoo.add(hipopotamo);
         // --- LINE 2 ---
 
 
