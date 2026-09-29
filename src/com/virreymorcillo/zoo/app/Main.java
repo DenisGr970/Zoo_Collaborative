@@ -34,10 +34,10 @@ public class Main {
 
 
         // --- LINE 4 ---
-
-
+        Animal Lion = new Lion("Lion") ;
+        zoo.add(Lion);
         // --- LINE 5 ---
-
+        Dog dog = new Dog("Doggi"); zoo.add(dog);
 
         // --- LINE 6 ---
 
