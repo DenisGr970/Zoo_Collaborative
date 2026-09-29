@@ -46,7 +46,7 @@ public class Main {
 
 
         // --- LINE 8 ---
-        Monkey monito =new Monkey("El Rey");
+        Monkey monito =new Monkey("El Reyy");
         zoo.add(monito);
 
         // --- LINE 9 ---
