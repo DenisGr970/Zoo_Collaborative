@@ -44,8 +44,8 @@ zoo.add(tiger);
 
 
         // --- LINE 7 ---
-
-
+        Animal cheetah = new Cheetah("cheetah");
+        zoo.add(cheetah);
         // --- LINE 8 ---
 
 
