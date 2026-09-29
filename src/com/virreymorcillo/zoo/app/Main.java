@@ -34,8 +34,8 @@ public class Main {
 
 
         // --- LINE 4 ---
-
-
+        Animal Lion = new Lion("Lion") ;
+        zoo.add(Lion);
         // --- LINE 5 ---
 
 
