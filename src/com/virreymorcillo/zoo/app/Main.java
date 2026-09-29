@@ -28,8 +28,8 @@ public class Main {
 Tiger tiger = new Tiger("Vitaly");
 zoo.add(tiger);
         // --- LINE 2 ---
-
-
+        Animal hipopotamo = new Hippo("Jose");
+        zoo.add(hipopotamo);
         // --- LINE 3 ---
         Animal cat = new Cat("Gatete miau");
         zoo.add(cat);
