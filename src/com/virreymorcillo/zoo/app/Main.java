@@ -50,7 +50,8 @@ zoo.add(tiger);
 
 
         // --- LINE 9 ---
-
+        Animal crocodile = new Crocodrile ("Crocodile");
+        zoo.add(crocodile);
 
         // --- LINE 10 ---
 
