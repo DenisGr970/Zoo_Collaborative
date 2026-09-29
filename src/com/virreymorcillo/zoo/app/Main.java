@@ -40,8 +40,8 @@ zoo.add(tiger);
         Dog dog = new Dog("Doggi"); zoo.add(dog);
 
         // --- LINE 6 ---
-
-
+        Animal wolf = new Wolf("Wolf");
+zoo.add(wolf);
         // --- LINE 7 ---
         Animal cheetah = new Cheetah("cheetah");
         zoo.add(cheetah);
