@@ -37,7 +37,7 @@ public class Main {
 
 
         // --- LINE 5 ---
-
+        Dog dog = new Dog("Doggi"); zoo.add(dog);
 
         // --- LINE 6 ---
 
