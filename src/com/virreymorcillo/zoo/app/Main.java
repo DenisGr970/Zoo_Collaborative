@@ -27,7 +27,6 @@ public class Main {
         // --- LINE 1 ---
 Tiger tiger = new Tiger("Vitaly");
 zoo.add(tiger);
-
         // --- LINE 2 ---
 
 
