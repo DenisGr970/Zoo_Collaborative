@@ -32,8 +32,8 @@ zoo.add(tiger);
 
 
         // --- LINE 3 ---
-
-
+        Animal cat = new Cat("Gatete miau");
+        zoo.add(cat);
         // --- LINE 4 ---
         Animal Lion = new Lion("Lion") ;
         zoo.add(Lion);
