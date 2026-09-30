@@ -8,7 +8,7 @@ package com.virreymorcillo.zoo.model;
  */
 public abstract class Animal {
 
-    protected String name;
+    String name;
 
     public Animal(String name) {
         this.name = name;
